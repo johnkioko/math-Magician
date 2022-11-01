@@ -2,7 +2,7 @@
 
 # Math magician Project
 
-> This is a Math magician Project setup with React.
+> This is a Calculator Project setup with React.
 
 ## Built With
 
