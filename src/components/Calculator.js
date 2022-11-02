@@ -1,0 +1,38 @@
+import React from 'react';
+import './App.css';
+
+class Calculator extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  render() {
+    return (
+      <div className="grid-container">
+        <div className="item0">0</div>
+        <div className="item1">AC</div>
+        <div className="item1">+/-</div>
+        <div className="item1">%</div>
+        <div className="item4"> ÷ </div>
+        <div className="item1">7</div>
+        <div className="item1">8</div>
+        <div className="item1">9</div>
+        <div className="item8">x</div>
+        <div className="item1">4</div>
+        <div className="item1">5</div>
+        <div className="item1">6</div>
+        <div className="item12">-</div>
+        <div className="item1">1</div>
+        <div className="item1">2</div>
+        <div className="item1">3</div>
+        <div className="item16">+</div>
+        <div className="item17 item1">0</div>
+        <div className="item1">.</div>
+        <div className="item19">=</div>
+      </div>
+    );
+  }
+}
+
+export default Calculator;
