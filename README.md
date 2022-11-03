@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magicians: events
+# Math magicians: refactor with hooks
 
-> In this project, I added the logic needed to make the Calculator component I developed in the previous project actually work.
+> In this project I have refactored the Calculator component I developed in the past projects. Instead of using class based components, I used hooks.
 
 ## Built With
 
