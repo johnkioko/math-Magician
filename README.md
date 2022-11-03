@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 Go to github and clone the repository
 
-- git clone https://github.com/johnkioko/leaderboard.git
+- git clone https://github.com/johnkioko/math-Magician.git
 - cd math-Magician
 - npm install
 - npm start
