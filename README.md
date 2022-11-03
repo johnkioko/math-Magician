@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magician Project
+# Math magicians: events
 
-> This is a Calculator Project setup with React.
+> In this project, I added the logic needed to make the Calculator component I developed in the previous project actually work.
 
 ## Built With
 
@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 Go to github and clone the repository
 
-- git clone https://github.com/johnkioko/leaderboard.git
+- git clone https://github.com/johnkioko/math-Magician.git
 - cd math-Magician
 - npm install
 - npm start

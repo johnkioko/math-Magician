@@ -7,7 +7,7 @@
   margin: auto;
 }
 
-.grid-container > div {
+.grid-container > * {
   padding: 20px 0;
   font-size: 24px;
 }
