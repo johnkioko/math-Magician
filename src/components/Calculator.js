@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import './App.css';
 
-function Calculator() {
+const Calculator = () => {
   const [state, setState] = useState({ total: 0, next: null, operation: null });
   function clickFunction(event) {
     setState((state) => calculate(state, event.target.innerText));
