@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magician Project
+# Math magicians: events
 
-> This is a Calculator Project setup with React.
+> In this project, I added the logic needed to make the Calculator component I developed in the previous project actually work.
 
 ## Built With
 
