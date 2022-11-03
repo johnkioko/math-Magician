@@ -77,6 +77,6 @@ const Calculator = () => {
       </button>
     </div>
   );
-}
+};
 
 export default Calculator;
