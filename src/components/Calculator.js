@@ -14,17 +14,6 @@ class Calculator extends React.Component {
     this.clickFunction = this.clickFunction.bind(this);
   }
 
-  // clickFunction =(e) => {
-  //   this.setState((currentState) => calculate({
-  //     total: currentState.total,
-  //     next: currentState.next,
-  //     operation: currentState.operation,
-  //   }, e.target.name));
-  // }
-
-  // this.buttonClick = this.buttonClick.bind(this);
-  // }
-
   clickFunction(event) {
     this.setState((state) => calculate(state, event.target.innerText));
   }
