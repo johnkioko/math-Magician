@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magicians: refactor with hooks
+# Math magicians: Full Website with React router
 
-> In this project I have refactored the Calculator component I developed in the past projects. Instead of using class based components, I used hooks.
+> In this project I developed a full website with several pages.Home, Calculator, and Quote..
 
 ## Built With
 
-- React
+- React Router
 - Webpack
 - CSS
 - JavaScript
