@@ -1,10 +1,31 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  margin: auto;
+  margin-top: 2rem;
+  padding: 0 1rem;
+}
+
+.calculator-h2 {
+  justify-content: flex-start;
+}
+
+.calculator {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 60%;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
   gap: 1px;
   padding: 2px;
-  width: 50%;
-  margin: auto;
+  width: 100%;
+  margin-top: 2rem;
 }
 
 .grid-container > * {
