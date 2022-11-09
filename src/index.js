@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Calculator from './components/Calculator';
+import { BrowserRouter as Router } from 'react-router-dom';
+import App from './app';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Calculator />
+    <Router>
+      <App />
+    </Router>
   </React.StrictMode>,
 );
