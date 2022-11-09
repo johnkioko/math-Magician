@@ -8,8 +8,7 @@ function Home() {
         <h2>Welcome to our page!</h2>
         <p>
           Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          {' '}
+          industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever
           <br />
           since the 1500s, when an unknown printer took a galley of type and
           scrambled it to make a type specimen book.

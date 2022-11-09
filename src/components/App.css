@@ -5,7 +5,7 @@
   width: 100%;
   margin: auto;
   margin-top: 2rem;
-  padding: 0 1rem
+  padding: 0 1rem;
 }
 
 .calculator-h2 {
@@ -25,7 +25,7 @@
   gap: 1px;
   padding: 2px;
   width: 100%;
-  margin-top: 2rem; 
+  margin-top: 2rem;
 }
 
 .grid-container > * {

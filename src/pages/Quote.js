@@ -1,5 +1,5 @@
-import React from "react";
-import "./Home.css";
+import React from 'react';
+import './Home.css';
 
 function Quote() {
   return (
@@ -8,8 +8,11 @@ function Quote() {
         <p>
           <q>
             Mathematics is not about numbers, equations, computations, or
-            algorithms: it is about understanding. -William Paul Thurston.
+            algorithms: it is about understanding.
           </q>
+          {' '}
+          -William Paul Thurston.
+
         </p>
       </main>
     </>
